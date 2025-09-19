@@ -1,4 +1,4 @@
-// To generate a large dataset quickly, you can use a simple loop.
+
 const courts = [];
 for (let i = 1; i <= 55; i++) {
   courts.push({

@@ -28,5 +28,5 @@ const styles = StyleSheet.create({
   },
 });
 
-// Ensure the component is the default export
+
 export default SearchBar;
